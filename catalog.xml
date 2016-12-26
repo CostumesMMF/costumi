@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<Costum>
+		<name>Пиратка</name>
+		<articul>ВЖ - 4663</articul>
+		<prise>Прокат(26BYN)/Покупка(350BYN)</prise>
+		<size>M/L/Xl/XXl</size>
+	</Costum>
+	<Costum>
+		<name>Супермен</name>
+		<articul>ВД - 1263</articul>
+		<prise>Прокат(24BYN)/Покупка(310BYN)</prise>
+		<size>S/L/XXl</size>
+	</Costum>
+	<Costum>
+		<name>Пират</name>
+		<articul>ВЖ - 3421</articul>
+		<prise>Прокат(25BYN)/Покупка(340BYN)</prise>
+		<size>Xl/XXl</size>
+	</Costum>
+	<Costum>
+		<name>Ангел</name>
+		<articul>ВГ - 3383</articul>
+		<prise>Прокат(19BYN)/Покупка(310BYN)</prise>
+		<size>S/L/XXl</size>
+	</Costum>
+	<Costum>
+		<name>Снегурочка</name>
+		<articul>ДВ - 1863</articul>
+		<prise>Прокат(29BYN)/Покупка(400BYN)</prise>
+		<size>M/L/Xl</size>
+	</Costum>
+	<Costum>
+		<name>Капитан Америка</name>
+		<articul>ВГ - 1854</articul>
+		<prise>Прокат(31BYN)/Покупка(420BYN)</prise>
+		<size>M/XXl</size>
+	</Costum>
+	<Costum>
+		<name>Мушкетёр</name>
+		<articul>ПР - 1892</articul>
+		<prise>Прокат(23BYN)/Покупка(330BYN)</prise>
+		<size>M/L/Xl/XXl</size>
+	</Costum>
+	<Costum>
+		<name>Дед Мороз</name>
+		<articul>ВГ - 1982</articul>
+		<prise>Прокат(31BYN)/Покупка(410BYN)</prise>
+		<size>S/L/Xl/XXl</size>
+	</Costum>
